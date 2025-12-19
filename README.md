@@ -1,5 +1,5 @@
 # Passage
 
-More info at [melancia.itch.io/passage](http://melancia.itch.io/passage)
+More info at [olmewe.itch.io/passage](http://olmewe.itch.io/passage)
 
 License: [CC BY-NC-SA 4.0](LICENSE.md)
